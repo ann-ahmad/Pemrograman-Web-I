@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header-logo {
+    text-align: center;
+    color: white;
+    font-family: the sunday bite;
+    float: right;
+    padding-top: 70px;
+}
+.header-logo h3 {
+    padding-bottom: 20px;
+    font-size:25px;
+    padding-right: 400px;
+}
+.header-logo img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-right: 400px;
+    vertical-align: middle;
+}
+.header-logo h5{
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+    margin-right: 400px;
+}
+.header-logo h6 {
+    margin-right: 400px;
+    margin-top: 10px;
+}
+.header-logo p {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.header-content {
+    text-align: left;
+    color: white;
+    font-family: the sunday bite;
+    float: right;
+    padding-top: 70px;
+    margin-right: 100px;
+    display: block;
+}
+.title {
+    text-align: left;
+    color: white;
+    font-family: the sunday bite;
+    float: left;
+    margin-top: 30px;
+    margin-left: 445px;
+}
+.title h2{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+footer {
+    text-align: left;
+    color: white;
+    font-family: the sunday bite;
+    float: left;
+    margin-top: 30px;
+    margin-left: 445px;
+}
+.menus h3 {
+    margin-bottom: 15px;
+}
+.menus img {
+    width: 20px;
+    height: 15px;
+    margin-right: 5px;
+}
+.menus a {
+    color: white;
+}
